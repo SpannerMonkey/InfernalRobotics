@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("InfernalRobotics")]
+[assembly: AssemblyTitle("InfernalRobotics_SMI KSP141")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("MagicSmokeIndustries")]
@@ -35,5 +35,5 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("2.0.13.0")]
-[assembly: AssemblyFileVersion("2.0.13.0")]
+[assembly: AssemblyVersion("2.1.9.1")]
+[assembly: AssemblyFileVersion("2.1.9.1")]
